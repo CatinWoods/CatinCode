@@ -1,11 +1,10 @@
-/*
-
-!/*/*.py
-!.gitignore
-!LICENSE
+/LRN*/*
+/PROJ*/*
+/About*/*
+/SCG*/*
+!*.md
 !*.txt
 !*.c
 !*.cpp
 !*.m
-
-!*.md
+!*.py
