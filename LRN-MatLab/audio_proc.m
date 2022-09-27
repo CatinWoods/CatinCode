@@ -11,11 +11,6 @@ fs;
 sound(audio_data, fs);
 
 %}
-load gong
-% sound(y,Fs)
-sound(sin(2*pi*25*(1:4000)/100));
-
-
 
 
 
